@@ -23,7 +23,7 @@ data  log  mongodb  `mongodb-bi`  mongodb-bi-linux-x86_64-rhel70-v2.14.5.tgz  mo
 
 ### Configure BI Connector
 
-`[mongo@ip10.20.30.1 mongo]$ cd mongodb-bi`                    // move to mongodb-bi directory
+`[mongo@ip10.20.30.1 mongo]$ cd mongodb-bi`      &nbsp;&nbsp;&nbsp;&nbsp;// move to mongodb-bi directory
 
-`[mongo@ip10.20.30.1 mongo]$ vi mongod.conf`                   // create new configuration file
+`[mongo@ip10.20.30.1 mongo]$ vi mongod.conf`     &nbsp;&nbsp;&nbsp;&nbsp;// create new configuration file
 
